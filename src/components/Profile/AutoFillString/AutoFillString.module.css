@@ -1,0 +1,17 @@
+.customDropdown {
+  position: relative;
+}
+
+.chooseModeWrapper {
+  width: 100%;
+}
+
+.dropdownPosition {
+  position: absolute;
+  background-color: rgba(0,0,0,0.9);
+  width: 100%;
+}
+
+.chosenOptionStyles {
+  color: snow;
+}

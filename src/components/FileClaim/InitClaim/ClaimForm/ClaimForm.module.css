@@ -1,0 +1,20 @@
+
+
+.fieldsWrapper {
+    padding-top: 20px;
+}
+
+.inputErrorMode {
+    position: relative;
+}
+
+.errorAppearance {
+    position: absolute;
+    bottom: -25px;
+    left: 10px;
+    color: #852F2E;
+}
+
+.claimBtnStyles {
+    padding: 30px 0;
+}

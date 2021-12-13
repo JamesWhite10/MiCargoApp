@@ -1,0 +1,29 @@
+.radioWrapper {
+    display: flex;
+    align-items: center;
+}
+
+.radioActiveStyles {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: #7a98c4;
+    border: 5px solid #424141;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.radioDefaultStyles {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: #424141;
+    border-radius: 10px;
+    font-size: 10px;
+}

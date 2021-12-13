@@ -1,0 +1,33 @@
+.btnClose {
+    border: none;
+    background-color: white;
+}
+
+.btnGo {
+    background-color: #E5651F;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid gray;
+    max-height: 50px;
+    max-width: 70px;
+    font-size: 22px;
+    width: 100%;
+    height: auto;
+    margin-top: 9px;
+}
+
+.btnGo:disabled {
+    background-color: #adadad;
+}
+
+.btnCreate {
+    background-color: #3eb7db;
+    border-radius: 15px;
+    border: 1px solid gray;
+}
+
+.btnCreate:hover {
+    border-radius: 15px;
+    border: 1px solid gray;
+}

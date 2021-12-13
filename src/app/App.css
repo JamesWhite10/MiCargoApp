@@ -1,0 +1,114 @@
+.App {
+    min-width: 100px;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #f6f6f6;
+}
+
+.btn.disabled, .btn:disabled, fieldset:disabled {
+    background-color: gray;
+    color: white;
+}
+
+.btn {
+    background-color: #E5651F;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.btn:hover {
+    opacity: 0.8;
+    background-color: #E5651F;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.btn-primary:active, .btn-primary.active {
+    opacity: 0.9;
+    background-color: #E5651F;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.btn-primary:focus {
+    opacity: 0.9;
+    background-color: #E5651F;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.errorActive {
+    border: 3px solid #852F2E;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.image-size {
+    width: 100%;
+    height: auto;
+    max-width: 520px;
+}
+
+@media screen and (max-width: 975px) {
+    .image-size {
+        display: none;
+    }
+}
+
+.background-color-advantages {
+    background-color: #f6f6f6;
+}
+
+.image-footer-logo {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+}
+
+.font-size-footer {
+    font-size: 13px;
+}
+
+.button-create-profile {
+    width: 100%;
+    height: auto;
+    max-width: 450px;
+    margin-top: 20px;
+}
+
+.background-color-input {
+    background-color: #f5f8ff;
+}
+
+.text-color-red {
+    color: red;
+}
+
+.text-color-name-profile {
+    color: #003366;
+}
+
+.full-value-input {
+    background-color: #F5F8FF;
+    min-height: 52px;
+    border-radius: 6px;
+    font-size: 23px;
+}
+
+.text-quote {
+    color: #848c96;
+}
+
+.color-amount {
+    color: #E5651F;
+}
+
+.color-city {
+    color: #B2544D;
+}

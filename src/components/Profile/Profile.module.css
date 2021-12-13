@@ -1,0 +1,11 @@
+.createBlock {
+    background-color: white;
+    max-width: 1000px;
+    min-height: 65vh;
+    border: 1px solid #e5eff8;
+    margin: 25px auto;
+}
+
+.zip {
+    width: calc(50% - 0.5rem);
+}

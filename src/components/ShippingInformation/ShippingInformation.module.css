@@ -1,0 +1,14 @@
+.shippingBLock {
+    max-width: 1300px;
+    min-height: 70vh;
+    margin: 10px auto;
+}
+
+.city {
+    width: calc(100% - 1.5rem);
+}
+
+.state {
+    width: calc(30% + 4rem);
+}
+

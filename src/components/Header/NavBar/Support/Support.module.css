@@ -1,0 +1,16 @@
+.supportBlock {
+    max-width: 1000px;
+    min-height: 70vh;
+    margin: 10px auto;
+}
+
+.spanFaq {
+    margin-left: 25px;
+    padding: 5px;
+}
+
+.supportBlock a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

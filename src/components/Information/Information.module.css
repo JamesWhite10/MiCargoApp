@@ -1,0 +1,22 @@
+.taglineContainer {
+    max-width: 480px;
+    width: 100%;
+    height: auto;
+}
+
+.tagline1, .tagline2 {
+    margin-left: 15px;
+}
+
+.tagline1, .tagline2 {
+    color: white;
+}
+
+.video {
+    border: 1px solid #606060;
+    margin-top: 50px;
+    max-width: 480px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}

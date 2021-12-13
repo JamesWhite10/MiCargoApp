@@ -1,0 +1,8 @@
+.homePageBlock {
+    background-image: url("../../../../assets/image/hero_background.jpg");
+    background-color: #606060;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    min-height: 750px;
+}
